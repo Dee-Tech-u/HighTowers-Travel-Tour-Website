@@ -19,7 +19,7 @@ function toggleMenu() {
         // Medium devices (tablets)
         600: {
           slidesPerView: 1,
-          spaceBetween: 15,
+          spaceBetween: 20,
         },
         // Large tablets and small desktops
         900: {
